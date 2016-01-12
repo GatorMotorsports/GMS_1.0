@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg4610"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Gear.png">
+  <metadata
+     id="metadata4727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     id="namedview4725"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="477.01528"
+     inkscape:cy="648.21252"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4629">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5336"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="25px"
+       spacingy="25px" />
+  </sodipodi:namedview>
+  <desc
+     id="desc4612">/Volumes/UNTITLED/Gear.DXF - scale = 53.154419</desc>
+  <defs
+     id="defs4614">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4617"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4620" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4622" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path4624" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="bg">
+    <rect
+       style="fill:#123a59;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5338"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="path"
+     id="g4629"
+     transform="translate(0,-52.362183)"
+     style="display:inline">
+    <path
+       id="path4713"
+       style="fill:none;stroke:#f2f2f2;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 409.90711,349.63796 -44.1926,-60.82592 -74.86907,54.39557 44.19261,60.82591 c -10.2878,11.44145 -19.38067,23.95671 -27.08303,37.27659 l -71.50515,-23.23343 -28.59744,88.01387 71.50515,23.23344 c -1.59788,15.30334 -1.59788,30.77304 0,46.07639 l -71.50515,23.23342 28.59744,88.01388 71.50515,-23.23343 c 7.70236,13.31988 16.79523,25.83514 27.08303,37.27658 l -44.19261,60.82592 74.86907,54.39554 44.1926,-60.82589 c 14.06058,6.24868 28.77315,11.02908 43.82127,14.23839 l 0,75.18496 92.54325,0 0,-75.18496 c 15.04812,-3.20931 29.76069,-7.98971 43.82127,-14.23839 l 44.1926,60.82589 74.86907,-54.39554 -44.19261,-60.82592 c 10.28779,-11.44144 19.38066,-23.95671 27.08302,-37.27658 l 71.50515,23.23343 28.59744,-88.01388 -71.50515,-23.23342 c 1.59788,-15.30335 1.59788,-30.77305 0,-46.07639 l 71.50515,-23.23344 -28.59744,-88.01387 -71.50515,23.23343 c -7.70236,-13.31988 -16.79523,-25.83514 -27.08302,-37.27659 l 44.19261,-60.82591 -74.86907,-54.39557 -44.1926,60.82592 c -14.06058,-6.24868 -28.77315,-11.02908 -43.82127,-14.23839 l 0,-75.18496 -92.54325,0 0,75.18496 c -15.04812,3.20931 -29.76069,7.98971 -43.82127,14.23839 z m 237.98751,202.72422 c 0,-19.35936 -3.8493,-38.7111 -11.25781,-56.59682 -7.40851,-17.88571 -18.37039,-34.29133 -32.05952,-47.98045 -13.68914,-13.68913 -30.09476,-24.651 -47.98047,-32.05949 C 538.7111,408.31692 519.35936,404.46763 500,404.46763 c -19.35936,0 -38.7111,3.84929 -56.59682,11.25779 -17.88571,7.40849 -34.29133,18.37036 -47.98046,32.05949 -13.68914,13.68912 -24.65102,30.09474 -32.05953,47.98045 -7.4085,17.88572 -11.2578,37.23746 -11.2578,56.59682 0,19.35936 3.8493,38.7111 11.2578,56.59682 7.40851,17.88571 18.37039,34.29133 32.05953,47.98045 13.68913,13.68913 30.09475,24.651 47.98046,32.05949 17.88572,7.40849 37.23746,11.25779 56.59682,11.25779 19.35936,0 38.7111,-3.8493 56.59682,-11.25779 17.88571,-7.40849 34.29133,-18.37036 47.98047,-32.05949 13.68913,-13.68912 24.65101,-30.09474 32.05952,-47.98045 7.40851,-17.88572 11.25781,-37.23746 11.25781,-56.59682 z m -73.94731,0 c 0.005,-19.36223 -7.96301,-38.60701 -21.65258,-52.29975 C 538.60516,486.36968 519.36223,478.39771 500,478.39771 c -19.36222,0 -38.60515,7.97197 -52.29472,21.66472 -13.68957,13.69274 -21.65708,32.93752 -21.65258,52.29975 0.005,19.35649 7.97604,38.59201 21.66474,52.27752 13.6887,13.68551 32.92607,21.65256 52.28256,21.65256 19.3565,0 38.59387,-7.96705 52.28257,-21.65256 13.6887,-13.68551 21.66024,-32.92103 21.66474,-52.27752 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccssssssssssssssssssssssssss" />
+  </g>
+</svg>

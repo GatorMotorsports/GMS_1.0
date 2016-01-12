@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3004"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Clipboard Empty.png">
+  <metadata
+     id="metadata3089">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     id="namedview3087"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="512.52432"
+     inkscape:cy="591.59607"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3971"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <desc
+     id="desc3006">/Users/Bryce/Dropbox/Clipboard Lines.DXF - scale = 84.000000</desc>
+  <defs
+     id="defs3008">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path3011"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3014" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3016" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3018" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg">
+    <rect
+       style="fill:#123a59;fill-opacity:1;stroke:none"
+       id="rect4670"
+       width="1000"
+       height="1000"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="path"
+     id="g3023"
+     transform="translate(0,-52.362183)">
+    <g
+       id="g3945"
+       transform="matrix(0.7012421,0,0,0.7012421,149.37895,165.02256)">
+      <path
+         id="path3075"
+         style="fill:none;stroke:#f2f2f2;stroke-width:14.26041021;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 308.21195,822.92033 410.97442,0 m -369.87698,-68.49574 369.87698,0 m -410.97442,-136.99147 410.97442,0 m -369.87698,-68.49574 369.87698,0 M 308.21195,411.9459 l 410.97442,0 m -369.87698,-68.49572 369.87698,0 m -250.57505,-191.78807 -311.09,0 0,821.94887 684.95737,0 0,-821.94887 -311.08999,0 m 2.85918,13.69915 c 0,-8.96607 -3.691,-17.87693 -10.03098,-24.2169 -6.33997,-6.33997 -15.25082,-10.03096 -24.21689,-10.03096 -8.96607,0 -17.87693,3.69099 -24.2169,10.03096 -6.33997,6.33997 -10.03098,15.25083 -10.03098,24.2169 0,8.96606 3.691,17.87693 10.03098,24.21689 6.33997,6.33997 15.25083,10.03096 24.2169,10.03096 8.96607,0 17.87692,-3.69099 24.21689,-10.03096 6.33997,-6.33996 10.03098,-15.25083 10.03098,-24.21689 z m -222.61115,41.09744 -99.31881,0 0,712.35566 575.36418,0 0,-712.35566 -99.31881,0 m -219.75197,-27.3983 -139.85065,0 -34.24787,54.79659 410.97442,0 -34.24787,-54.79659 -139.85065,0 m -26.25151,-13.69914 c 0,-2.68981 -2.44737,-5.13718 -5.13719,-5.13718 -2.68982,0 -5.13719,2.44737 -5.13719,5.13718 0,2.68983 2.44738,5.13718 5.13719,5.13718 2.68982,0 5.13719,-2.44735 5.13719,-5.13718 z M 301.36236,754.42459 a 20.548721,20.548721 0 1 0 -41.09744,0 20.548721,20.548721 0 1 0 41.09744,0 z m 0,-205.48721 a 20.548721,20.548721 0 1 0 -41.09744,0 20.548721,20.548721 0 1 0 41.09744,0 z m 0,-205.4872 a 20.548721,20.548721 0 1 0 -41.09744,0 20.548721,20.548721 0 1 0 41.09744,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

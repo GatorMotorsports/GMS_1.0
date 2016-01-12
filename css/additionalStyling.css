@@ -1,0 +1,40 @@
+.TeamSectionNames {
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+
+.TeamSectionNames > li{
+    display: inline;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 1.25em;
+    margin: 20px;
+    
+}
+
+.blackText {
+    color: black;
+}
+
+.blueText {
+    color: #123a59;
+}
+
+.logo {
+    align-content: center;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.media {
+    overflow: auto;
+    height: 500px;
+}
+img {
+    border-style: none;
+}
